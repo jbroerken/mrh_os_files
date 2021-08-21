@@ -1,0 +1,7 @@
+###
+#
+#  mrh_os_files Authors
+#
+###
+
+Jens Brörken <jens.broerken@gmail.com>

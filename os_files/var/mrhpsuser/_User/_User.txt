@@ -1,0 +1,3 @@
+The _User directory is linked by the user platform service.
+Inside of this directory is where the specific user data folders
+are found.

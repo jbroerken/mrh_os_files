@@ -1,0 +1,68 @@
+<MRHBF_1>
+
+####################
+#  Compare Method  #
+####################
+
+<CompareMethod>{
+    <Identifier><1>
+    <LS_Similarity><0.75>
+}
+
+##############
+#  Triggers  #
+##############
+
+<Trigger>{
+    <String><quit>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><close>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><stop>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><terminate>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><program>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><app>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><application>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><current>
+    <Weight><100>
+    <Value><0>
+}
+
+<Trigger>{
+    <String><running>
+    <Weight><100>
+    <Value><0>
+}

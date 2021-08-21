@@ -1,0 +1,1 @@
+MRH user service logs are stored here.

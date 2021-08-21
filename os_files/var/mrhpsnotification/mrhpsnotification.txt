@@ -1,0 +1,3 @@
+The mrhpsnotification folder is used as the default folder
+for storing notifications created by user applications and
+user application services.

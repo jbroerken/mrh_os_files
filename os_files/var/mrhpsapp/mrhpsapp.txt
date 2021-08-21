@@ -1,0 +1,2 @@
+The mrhpsapp folder is used as the default folder for storing 
+timed launches saved in the timed launch block file.
