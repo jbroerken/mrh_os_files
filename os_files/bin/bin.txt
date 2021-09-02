@@ -1,1 +1,0 @@
-Important MRH platform binaries are stored here.

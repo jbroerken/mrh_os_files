@@ -1,1 +1,1 @@
-Secondary applications like mrhwebtalk are stored here.
+MRH binaries are stored here.
