@@ -1,0 +1,1 @@
+Install the PocketSphinx trigger model data here.
