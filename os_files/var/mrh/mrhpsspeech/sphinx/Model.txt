@@ -1,0 +1,2 @@
+Install the PocketSphinx model data here.
+All models must be stored in a matching locale folder, for example "en_US".
