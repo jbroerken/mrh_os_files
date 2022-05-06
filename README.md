@@ -7,7 +7,9 @@
 
 ## About
 
-The mrh_os_files project supplies all default files used by the MRH platform.
+The mrh_os_files project supplies default files used by the MRH platform. 
+All files are organized in a way which matches the expected structure defined 
+by the individual components when using their default settings.
 
 
 ## Documentation
@@ -21,9 +23,10 @@ https://www.sphinx-doc.org/en/master/
 #### Read The Docs Theme
 https://sphinx-rtd-theme.readthedocs.io/en/stable/
 
+
 ## Licence
 
-This project is licenced under the GNU General Public 2 licence. 
+This project is licenced under the ZLib licence. 
 Please read the included LICENCE.txt for the exact terms.
 
 
@@ -35,4 +38,4 @@ Their names and descriptions are as follows:
 Directory | Description
 --------- | -----------
 doc | Documentation files.
-os_files | Operating system files (based on Debian Linux).
+os_files | MRH platform files.
