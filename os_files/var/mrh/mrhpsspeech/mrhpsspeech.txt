@@ -1,0 +1,2 @@
+The mrhpsspeech folder is used as the default folder for storing 
+output cache audio.
