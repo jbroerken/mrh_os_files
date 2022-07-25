@@ -7,3 +7,7 @@
 1.0.0:
 ------
 - Initial release.
+
+1.0.2:
+------
+- Add more directories, add and update configurations and add support files.

@@ -29,3 +29,13 @@ user applications to access and store user files.
 Contained inside the mrhuapp directory is the launch input storage text file which 
 allows multiple sentences to be used for launch input. This file is then read by 
 mrhuapp to read the user application launch input.
+
+/var/mrh/mrhpsspeech/
+---------------------
+The mrhpsspeech directory is used as the default MRH output cache directory. 
+The speech service will store and read already synthesised output here.
+
+/var/mrh/mrhaudiod/
+-------------------
+Inside the mrhaudiod directory are the trigger sound files used to notify 
+users that recording has been activated.

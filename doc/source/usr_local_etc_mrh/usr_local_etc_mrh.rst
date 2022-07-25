@@ -37,3 +37,8 @@ MRH_UserServiceList.conf
 ------------------------
 The user service list acts as a whitelist and defines which user application 
 services should be started by MRH Core.
+
+mrhaudiod.conf
+--------------
+mrhaudiod.conf is the loaded configuration for the MRH audio recording and 
+playback daemon.
